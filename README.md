@@ -1,4 +1,8 @@
 ### Hi there 👋
+Name - Mahika Agrawal
+Registration number - 20BAI10101
+I am Mahika Agrawal from Bhopal. I am currently in first year pursuing computer science with specialisation in AI&ML.
+My hobbies include indulging in adventurous activities, making fun reels, all things artistic, exploring and travelling.
 
 <!--
 **mahikkaaa/mahikkaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
