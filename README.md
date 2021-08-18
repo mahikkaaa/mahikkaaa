@@ -3,7 +3,7 @@
 
 I am Mahika Agrawal from Bhopal. I am currently in second year pursuing computer science with specialisation in AI&ML.
 
-My hobbies include indulging in adventurous activities, making fun reels, all things artistic, exploring and travelling.
+My hobbies include indulging in adventurous activities, coding, making fun reels, all things artistic, exploring and travelling.
 
 🔭 I’m currently working on acquiring new tech skills.
 
