@@ -1,9 +1,11 @@
 [![MaterHead](https://github.com/mahikkaaa/CV/blob/main/bannerr.gif)](https://mahikkaaa.io)
 <h1 align="center">Hi 👋, I'm Mahika</h1>
 <h3 align="center">A Tech Enthusiast</h3>
-<img align="center" src="https://github.com/mahikkaaa/CV/blob/main/avataaars.png" alt="avatas" width="200" height="200">
+<p align="center">
+<img width="200" height="200" src="https://github.com/mahikkaaa/CV/blob/main/avataaars.png" alt="avatas">
+  </p>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahikkaaa&label=Profile%20views&color=0e75b6&style=flat" alt="mahikkaaa" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahikkaaa&label=Profile%20views&color=0e75b6&style=flat" alt="mahikkaaa" /> 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahikkaaa" alt="mahikkaaa" /></a> </p>
 
