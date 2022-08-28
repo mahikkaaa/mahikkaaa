@@ -1,7 +1,7 @@
 [![MaterHead](https://github.com/mahikkaaa/CV/blob/main/bannerr.gif)](https://mahikkaaa.io)
 <h1 align="center">Hi 👋, I'm Mahika</h1>
 <h3 align="center">A Tech Enthusiast</h3>
-<img align="center" src="https://github.com/mahikkaaa/CV/blob/main/avataaars.png" alt="avatas" width="100">
+<img align="center" src="https://github.com/mahikkaaa/CV/blob/main/avataaars.png" alt="avatas" width="200" height="200">
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahikkaaa&label=Profile%20views&color=0e75b6&style=flat" alt="mahikkaaa" /> </p>
 
