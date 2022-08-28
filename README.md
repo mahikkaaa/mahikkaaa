@@ -17,7 +17,7 @@
 
 - 🤝 I’m looking for help with **DSA**
 
-- 📝 I regularly write articles on [Cryptocurrency and Entrepreneurship](Cryptocurrency and Entrepreneurship)
+- 📝 I regularly write articles on Cryptocurrency and Entrepreneurship
 
 - 💬 Ask me about **Development, Technical Content Writing and DSA**
 
