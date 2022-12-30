@@ -5,7 +5,7 @@
 <img width="200" height="200" src="https://github.com/mahikkaaa/CV/blob/main/avataaars.png" alt="avatas">
   </p>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahikkaaa&label=Profile%20views&color=0e75b6&style=flat" alt="mahikkaaa" /> 
+<p align="left"> <img src="images/Black and Blue Abstract Modern Vaporwave Background YouTube Channel Art (1).png" alt="mahikkaaa" /> 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahikkaaa" alt="mahikkaaa" /></a> </p>
 
