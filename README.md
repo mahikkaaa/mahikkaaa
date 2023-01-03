@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mahika</h1>
 <h3 align="center">A Tech Enthusiast</h3>
 <p align="center">
-<img width="200" height="200" src="[https://github.com/mahikkaaa/CV/blob/main/avataaars.png]
+<img width="200" height="200" src="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/37215/laptop-computer-woman-girl-clipart-xl.png"
   </p>
 <br>
 <p align="left"> <img src="images/Black and Blue Abstract Modern Vaporwave Background YouTube Channel Art (1).png" alt="mahikkaaa" /> 
