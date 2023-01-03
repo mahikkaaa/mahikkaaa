@@ -1,8 +1,8 @@
-[![MaterHead](https://github.com/mahikkaaa/CV/blob/main/bannerr.gif)](https://mahikkaaa.io)
+[![MaterHead](https://d33wubrfki0l68.cloudfront.net/4b2ae9a294c12fec0ba62127962fc665a17e0474/6a2d2/static/add7e5a79bab8f3edd1321e01d04d2df/12fd3/post-7-data-analysis-tools.png)](https://mahikkaaa.io)
 <h1 align="center">Hi 👋, I'm Mahika</h1>
 <h3 align="center">A Tech Enthusiast</h3>
 <p align="center">
-<img width="200" height="200" src="[https://github.com/mahikkaaa/CV/blob/main/avataaars.png](https://d33wubrfki0l68.cloudfront.net/4b2ae9a294c12fec0ba62127962fc665a17e0474/6a2d2/static/add7e5a79bab8f3edd1321e01d04d2df/12fd3/post-7-data-analysis-tools.png)" alt="avatas">
+<img width="200" height="200" src="[https://github.com/mahikkaaa/CV/blob/main/avataaars.png]
   </p>
 <br>
 <p align="left"> <img src="images/Black and Blue Abstract Modern Vaporwave Background YouTube Channel Art (1).png" alt="mahikkaaa" /> 
