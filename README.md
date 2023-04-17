@@ -5,7 +5,7 @@
 <img width="200" height="200" src="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/37215/laptop-computer-woman-girl-clipart-xl.png"
   </p>
 <br>
-<p align="left"> <img src="images/Black and Blue Abstract Modern Vaporwave Background YouTube Channel Art (1).png" alt="mahikkaaa" /> 
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahikkaaa" alt="mahikkaaa" /></a> </p>
 
@@ -26,7 +26,7 @@
 I'm open to a wide range of initiatives that might provide me with new perspectives. In addition to my current skill set, I'm always looking to expand my versatility.
 
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1WTR33lkw637DcsBQ8NYdW-m1Mp1ji4B1/view?usp=sharing](https://drive.google.com/file/d/1WTR33lkw637DcsBQ8NYdW-m1Mp1ji4B1/view?usp=sharing)
+- 📄 Know about my experiences at [https://drive.google.com/file/d/1WTR33lkw637DcsBQ8NYdW-m1Mp1ji4B1/view?usp=sharing](https://drive.google.com/file/d/1WTR33lkw637DcsBQ8NYdW-m1Mp1ji4B1/view?usp=sharing)
 
 <p align="center">
 <h3>Connect with me:</h3>
