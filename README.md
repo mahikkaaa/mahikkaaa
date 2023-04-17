@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahikkaaa" alt="mahikkaaa" /></a> </p>
 
-- 🔭 I’m currently working on **Development and AI**
+- 🔭 I am really passionate about **Data Analysis, Artificial Intelligence and Machine Learning**. I’m currently working on projects in the same domain. Do check [my portfolio](https://mahikkaaa.netlify.app/) for more insights. I am Initiative-driven, quick learner with solid planning and management abilities, innovative thinking, and clear communication skills, with the ability to persuade and negotiate, and a future-ready solutions-focused leader.
 
 - 🌱 I’m currently learning **DSA**
 
@@ -23,7 +23,10 @@
 
 - 📫 How to reach me **Mahika.agrawal2020@vitbhopal.ac.in**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1tt5SBqJ2alAkdELQgcWz6PGMxc-uBnG8/edit?usp=sharing&ouid=110354506505808260124&rtpof=true&sd=true](https://docs.google.com/document/d/1tt5SBqJ2alAkdELQgcWz6PGMxc-uBnG8/edit?usp=sharing&ouid=110354506505808260124&rtpof=true&sd=true)
+I'm open to a wide range of initiatives that might provide me with new perspectives. In addition to my current skill set, I'm always looking to expand my versatility.
+
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1WTR33lkw637DcsBQ8NYdW-m1Mp1ji4B1/view?usp=sharing](https://drive.google.com/file/d/1WTR33lkw637DcsBQ8NYdW-m1Mp1ji4B1/view?usp=sharing)
 
 <p align="center">
 <h3>Connect with me:</h3>
