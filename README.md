@@ -1,4 +1,5 @@
-[![MaterHead](https://d33wubrfki0l68.cloudfront.net/4b2ae9a294c12fec0ba62127962fc665a17e0474/6a2d2/static/add7e5a79bab8f3edd1321e01d04d2df/12fd3/post-7-data-analysis-tools.png)](https://mahikkaaa.io)
+[![MaterHead]
+(https://mahikkaaa.io)
 <h1 align="center">Hi 👋, I'm Mahika</h1>
 <h3 align="center">A Tech Enthusiast</h3>
 <p align="center">
