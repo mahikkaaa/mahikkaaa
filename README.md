@@ -11,7 +11,7 @@
 
 - 🔭 I am really passionate about **Data Analysis, Artificial Intelligence and Machine Learning**. I’m currently working on projects in the same domain. Do check [my portfolio](https://mahikkaaa.netlify.app/) for more insights. I am Initiative-driven, quick learner with solid planning and management abilities, innovative thinking, and clear communication skills, with the ability to persuade and negotiate, and a future-ready solutions-focused leader.
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **DSA and Data Analysis Projects**
 
 - 👯 I’m looking to collaborate on **AI&ML Projects**
 
@@ -19,11 +19,13 @@
 
 - 📝 I regularly write articles on Cryptocurrency and Entrepreneurship
 
-- 💬 Ask me about **Development, Technical Content Writing and DSA**
+- 💬 Ask me everything about **Data Analysis, Technical Content Writing and DSA**
+
+- 🎨 I create amazing visualizations using [Tableau](https://public.tableau.com/app/profile/mahika.agrawal1593)
 
 - 📫 How to reach me **Mahika.agrawal2020@vitbhopal.ac.in**
 
-I'm open to a wide range of initiatives that might provide me with new perspectives. In addition to my current skill set, I'm always looking to expand my versatility.
+- 👧🏻 I'm open to a wide range of initiatives that might provide me with new perspectives. In addition to my current skill set, I'm always looking to expand my versatility.
 
 
 - 📄 Know about my experiences at [https://drive.google.com/file/d/1WTR33lkw637DcsBQ8NYdW-m1Mp1ji4B1/view?usp=sharing](https://drive.google.com/file/d/1WTR33lkw637DcsBQ8NYdW-m1Mp1ji4B1/view?usp=sharing)
