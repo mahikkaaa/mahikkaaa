@@ -1,5 +1,4 @@
-[![MasterHead]
-(https://mahikkaaa.io)
+
 <h1 align="center">Hi 👋, I'm Mahika</h1>
 <h3 align="center">A Tech Enthusiast</h3>
 <p align="center">
