@@ -14,7 +14,6 @@
 ![Mahika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mahikkaaa&bg_color=000000&color=ffffff&line=ffffff&point=403d3d&area=true&hide_border=true)
   </p>
   </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahikkaaa" alt="mahikkaaa" /></a> </p>
 
 - 🔭 I am really passionate about **Data Analysis, Artificial Intelligence and Machine Learning**. I’m currently working on projects in the same domain. Do check [my portfolio](https://mahikkaaa.netlify.app/) for more insights. I am Initiative-driven, quick learner with solid planning and management abilities, innovative thinking, and clear communication skills, with the ability to persuade and negotiate, and a future-ready solutions-focused leader.
 
