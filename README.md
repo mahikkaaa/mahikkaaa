@@ -1,15 +1,15 @@
 
 <h1 align="center">Hi 👋, I'm Mahika</h1>
 <h3 align="center">A Tech Enthusiast</h3>
-<p align="center">
+<!-- <p align="center">
 <img width="200" height="200" src="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/37215/laptop-computer-woman-girl-clipart-xl.png"
-  </p>
+  </p> -->
 <br>
 
   <img alt="Mahika's Github Streaks" src="https://github-readme-streak-stats.herokuapp.com?user=mahikkaaa&theme=dark&card_width=400">
   <img alt="Mahika's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mahikkaaa&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&card_width=400">
 
-<a href="https://www.hackerrank.com/mahikkaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mahikkaaa" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mahikkaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readmegenerator/master/src/images/icons/Social/hackerrank.svg" alt="mahikkaaa" height="30" width="40" /></a>
 
 ![Mahika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mahikkaaa&bg_color=000000&color=ffffff&line=ffffff&point=403d3d&area=true&hide_border=true)
   
