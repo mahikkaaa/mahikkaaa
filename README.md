@@ -16,7 +16,6 @@
   </p>
 
 
-<script src="https://gist.github.com/obli99/bbfea4a385b1a915df491cf29c3c8c26.js"></script>
 
 - 🔭 I am really passionate about **Data Analysis, Artificial Intelligence and Machine Learning**. I’m currently working on projects in the same domain. Do check [my portfolio](https://mahikkaaa.netlify.app/) for more insights. I am Initiative-driven, quick learner with solid planning and management abilities, innovative thinking, and clear communication skills, with the ability to persuade and negotiate, and a future-ready solutions-focused leader.
 
