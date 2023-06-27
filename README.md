@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mahika</h1>
-<h3 align="center">A Tech Enthusiast</h3>
+<h3 align="center">A Tech Enthusiast!</h3>
 <p align="center">
 <img width="200" height="200" src="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/37215/laptop-computer-woman-girl-clipart-xl.png"
   </p>
