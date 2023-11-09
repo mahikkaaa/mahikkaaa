@@ -39,11 +39,9 @@
 - 📄 Know about my experiences at [https://drive.google.com/file/d/1WTR33lkw637DcsBQ8NYdW-m1Mp1ji4B1/view?usp=sharing](https://drive.google.com/file/d/1WTR33lkw637DcsBQ8NYdW-m1Mp1ji4B1/view?usp=sharing)
 
 <p align="center">
-<h3>Connect with me:</h3>
-<a href="https://twitter.com/tssahil2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tssahil2001" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sahil-arora-472415209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil-arora-472415209" height="30" width="40" /></a>
-<a href="https://instagram.com/being.sahil23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="being.sahil23" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tssahil2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tssahil2001" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/tssahil2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tssahil2001" height="30" width="40" /></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mahika-agrawal-b938471b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahika-agrawal-b938471b1" height="30" width="40" /></a>
+<a href="https://kaggle.com/mahikkaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mahikkaaa" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/mahikkaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mahikkaaa" height="30" width="40" /></a>
 </p>
-
